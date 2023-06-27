@@ -1,0 +1,5 @@
+"举报有效奖励1":
+  "messages":
+    - "An apple a day keeps the doctor way"
+  "commands":
+    - /give "{player}" apple 1

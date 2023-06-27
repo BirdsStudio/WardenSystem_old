@@ -1,0 +1,7 @@
+command: "r"
+admins:
+  - "OrthoRelic17176"
+wardens:
+  - "BizarreDark"
+forbid_modify_worlds:
+  - world
